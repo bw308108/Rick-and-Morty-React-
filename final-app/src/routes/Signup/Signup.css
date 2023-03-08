@@ -1,0 +1,10 @@
+.test {
+    
+    background: url(../../components/Image/Image3.jpg);
+    background-size: cover;
+    max-height: fit-content;
+    height: 500px;
+    overflow: hidden;
+    background-repeat: no-repeat;
+ 
+}

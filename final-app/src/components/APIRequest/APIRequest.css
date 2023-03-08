@@ -1,0 +1,10 @@
+.cards {
+    background-color: rgb(144, 41, 160);
+}
+
+.title1 {
+    font-family: 'Waiting for the Sunrise', cursive;
+    font-weight: bolder;
+    font-size: 50px;
+    text-align: center;
+}
